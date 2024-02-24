@@ -2,7 +2,6 @@
 #include <DHT.h>
 #include <DHT_U.h>
 
-
 // Sensor PIN Define
 #define DHTPIN 2    // DHT22 temperature sensor
 #define DHTTYPE DHT22

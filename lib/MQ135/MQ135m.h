@@ -1,5 +1,5 @@
 #include <MQ135.h>
-// #include <DHT.h>
+
 #define AO 16
 
 // static QueueHandle_t smokeAlarm;
