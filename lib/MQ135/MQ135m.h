@@ -1,6 +1,6 @@
 #include <MQ135.h>
 
-#define AO 16
+#define PIN_MQ135 16 // A0
 
 // static QueueHandle_t smokeAlarm;
 

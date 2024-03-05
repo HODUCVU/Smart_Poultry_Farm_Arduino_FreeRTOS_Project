@@ -9,3 +9,4 @@
 // static QueueHandle_t tempReading;
 
 void TaskTemperatureRead(void *pvParamenters);
+void DHT22Detail();
